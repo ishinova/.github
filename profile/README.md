@@ -42,8 +42,7 @@ Ishinovaは、日本の伝統的な価値観と最先端テクノロジーの融
 
 ## 🔗 ソーシャルリンク
 
-- [Twitter](https://twitter.com/ishinova)
-- [LinkedIn](https://www.linkedin.com/company/ishinova)
+- [Twitter](https://twitter.com/ishinovainc)
 
 ---
 
